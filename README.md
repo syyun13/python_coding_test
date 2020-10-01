@@ -1,6 +1,6 @@
 # Python Coding Practices
 
-These are codes that I wrote to prepare for coding tests/interviews.
+These are codes written to prepare for coding tests/interviews on June - July 2020.
 
 All test examples come from [Programmers](https://programmers.co.kr/).
 
